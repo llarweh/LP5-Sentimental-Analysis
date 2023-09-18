@@ -70,5 +70,5 @@ If you wish to run the app locally or contribute to its development, please refe
 
 ---
 
-  ![Twitter Follow](https://img.shields.io/twitter/follow/the1_caly)
+ (https://medium.com/@lawrencelarweh/sentiment-analysis-app-8f16ddc6ba44)https://medium.com/@lawrencelarweh/sentiment-analysis-app-8f16ddc6ba44
 </p>
